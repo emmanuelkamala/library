@@ -1,6 +1,7 @@
 # Project: Library
 
-> It`s a small Library app.
+It`s a small Library app.
+
 ![screenshot](./mylibrary.png)
 
 We create a constructor for making “book” objects. Our book objects have the book’s:
